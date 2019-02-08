@@ -1,14 +1,14 @@
 .container-fluid{
   text-align: center;
 background-color: #222831;
-color: white;
+color: #00fff5;
 }
 #Text{
-  color: white;
+  color: #00fff5;
   font-size:40px;
   background:#393e46;
   font-style:oblique;
 }
-#titulo{
+#Inicio{
     font-size:100px;
 }
