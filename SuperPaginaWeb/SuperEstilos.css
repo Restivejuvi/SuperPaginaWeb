@@ -1,5 +1,11 @@
 .container-fluid{
   text-align: center;
-background-color: black;
+background-color: #222831;
 color: white;
+}
+#Text{
+  color: white;
+  font-size:40px;
+  background:#393e46;
+  font-style:oblique;
 }
