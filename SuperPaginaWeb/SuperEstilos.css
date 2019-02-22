@@ -10,8 +10,20 @@ color: #00adb5;
   font-style:oblique;
 }
 #Inicio{
-    font-size:120px;
+    font-size:50px;
 }
 #links{
-
+}
+.img-thumbnail{
+  width: 50%;
+}
+@media only screen and (min-width:768px){
+#Inicio{
+  font-size: 100px;
+  }
+}
+@media only screen and (min-width:1200px){
+  #Inicio{
+    font-size: 150px;
+    }
 }
