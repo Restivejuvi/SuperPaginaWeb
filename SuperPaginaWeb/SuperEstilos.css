@@ -3,10 +3,16 @@
 background-color: #222831;
 color: #00adb5;
 }
-#Text{
+#Text1{
   color: #00fff5;
-  font-size:40px;
+  font-size:20px;
   background:#393e46;
+  font-style:oblique;
+}
+#Text2{
+  color: #00adb5;
+  font-size:20px;
+  background:#222831;
   font-style:oblique;
 }
 #Inicio{
@@ -20,6 +26,18 @@ color: #00adb5;
     }
   .img-thumbnail{
     width: 50%;
+  }
+  #Text1{
+    color: #00fff5;
+    font-size:40px;
+    background:#393e46;
+    font-style:oblique;
+  }
+  #Text2{
+    color: #00adb5;
+    font-size:40px;
+    background:#222831;
+    font-style:oblique;
   }
 }
 @media only screen and (min-width:1024px){
