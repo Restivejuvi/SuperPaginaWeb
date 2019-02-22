@@ -14,16 +14,27 @@ color: #00adb5;
 }
 #links{
 }
-.img-thumbnail{
-  width: 50%;
-}
 @media only screen and (min-width:768px){
-#Inicio{
-  font-size: 100px;
+  #Inicio{
+    font-size: 100px;
+    }
+  .img-thumbnail{
+    width: 50%;
   }
+}
+@media only screen and (min-width:1024px){
+  #Inicio{
+    font-size: 130px;
+    }
+    .img-thumbnail{
+      width: 100%;
+    }
 }
 @media only screen and (min-width:1200px){
   #Inicio{
     font-size: 150px;
+    }
+    .img-thumbnail{
+      width: 90%;
     }
 }
