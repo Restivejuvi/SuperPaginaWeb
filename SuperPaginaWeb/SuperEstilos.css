@@ -18,7 +18,41 @@ color: #00adb5;
 #Inicio{
     font-size:50px;
 }
-#links{
+#links1{
+  transition: transform .2s;
+}
+#links1:hover {
+    transform: scale(1.5);
+}
+#links2{
+  transition: transform .2s;
+}
+#links2:hover {
+    transform: scale(1.5);
+}
+#links3{
+  transition: transform .2s;
+}
+#links3:hover {
+    transform: scale(1.5);
+}
+#links4{
+  transition: transform .2s;
+}
+#links4:hover {
+    transform: scale(1.5);
+}
+#links5{
+  transition: transform .2s;
+}
+#links5:hover {
+    transform: scale(1.5);
+}
+#links6{
+  transition: transform .2s;
+}
+#links6:hover {
+    transform: scale(1.5);
 }
 @media only screen and (min-width:768px){
   #Inicio{
